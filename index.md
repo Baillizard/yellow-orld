@@ -4,12 +4,14 @@ A new line
 * 2 avocados
 * 1 lime
 * 1 tsp salt
+* 1 tomato
 * onion
 
 ## Instructions
 
 1. chop avocados
-2. chop onion
-3. squeeze lime
-4. add salt
-5. mix well
+2. Chop tomato
+3. chop onion
+4. squeeze lime
+5. add salt
+6. mix well
